@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">Puzzle Notebook app icon</title>
+  <desc id="desc">White notebook with connected four-piece puzzle and centered shared knight on a flat purple rounded-square background.</desc>
+  <rect x="64" y="64" width="896" height="896" rx="190" fill="#7145A8"/>
+  <rect x="190" y="150" width="660" height="724" rx="92" fill="none" stroke="#fff" stroke-width="50"/>
+  <g fill="#fff">
+    <rect x="154" y="244" width="108" height="38" rx="19"/>
+    <rect x="154" y="364" width="108" height="38" rx="19"/>
+    <rect x="154" y="484" width="108" height="38" rx="19"/>
+    <rect x="154" y="604" width="108" height="38" rx="19"/>
+  </g>
+  <g transform="translate(300 238)">
+    <path fill="#7145A8" stroke="#fff" stroke-width="16" stroke-linejoin="round" d="M0 0h190v66a38 38 0 1 1 0 76v66H0v-66a38 38 0 1 0 0-76Z"/>
+    <path fill="#fff" stroke="#fff" stroke-width="16" stroke-linejoin="round" d="M190 0h190v66a38 38 0 1 0 0 76v66H190v-66a38 38 0 1 1 0-76Z"/>
+    <path fill="#fff" stroke="#fff" stroke-width="16" stroke-linejoin="round" d="M0 208h66a38 38 0 1 1 76 0h48v208H0v-66a38 38 0 1 0 0-76Z"/>
+    <path fill="#7145A8" stroke="#fff" stroke-width="16" stroke-linejoin="round" d="M190 208h48a38 38 0 1 0 76 0h66v208H190v-66a38 38 0 1 1 0-76Z"/>
+  </g>
+  <g transform="translate(311 291) scale(.96)">
+    <path fill="#fff" d="M116 341c5-58 31-111 76-151l-33-39 40 8 23-72 26 61c71 18 113 80 105 153-4 37-19 72-37 104H128c-10-20-14-41-12-64Zm74-165c-35 29-57 66-63 109 22-20 50-33 81-35 20-1 39 3 57 11-10-39-39-72-75-85Z"/>
+    <circle cx="239" cy="184" r="13" fill="#7145A8"/>
+    <circle cx="172" cy="230" r="8" fill="#7145A8"/>
+    <path d="M265 151c42 29 63 78 57 127-4 33-16 65-28 92" fill="none" stroke="#7145A8" stroke-width="14" stroke-linecap="round"/>
+    <rect x="109" y="405" width="216" height="42" rx="21" fill="#fff"/>
+    <rect x="92" y="456" width="250" height="42" rx="21" fill="#fff"/>
+  </g>
+</svg>
