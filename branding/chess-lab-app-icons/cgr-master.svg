@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">Chess Game Review app icon</title>
+  <desc id="desc">White shared knight and simple board inside a magnifying glass on a flat blue rounded-square background.</desc>
+  <rect x="64" y="64" width="896" height="896" rx="190" fill="#256B8F"/>
+  <circle cx="486" cy="466" r="322" fill="none" stroke="#fff" stroke-width="62"/>
+  <path d="M710 697l154 154" fill="none" stroke="#fff" stroke-width="76" stroke-linecap="round"/>
+  <g fill="#fff">
+    <path d="M269 610h70l-24 45h-70z"/>
+    <path d="M339 610h70l24 45h-70z"/>
+    <path d="M579 610h70l24 45h-70z"/>
+    <path d="M649 610h70l-24 45h-70z"/>
+  </g>
+  <g transform="translate(276 219) scale(.98)">
+    <path fill="#fff" d="M116 341c5-58 31-111 76-151l-33-39 40 8 23-72 26 61c71 18 113 80 105 153-4 37-19 72-37 104H128c-10-20-14-41-12-64Zm74-165c-35 29-57 66-63 109 22-20 50-33 81-35 20-1 39 3 57 11-10-39-39-72-75-85Z"/>
+    <circle cx="239" cy="184" r="13" fill="#256B8F"/>
+    <circle cx="172" cy="230" r="8" fill="#256B8F"/>
+    <path d="M265 151c42 29 63 78 57 127-4 33-16 65-28 92" fill="none" stroke="#256B8F" stroke-width="14" stroke-linecap="round"/>
+    <rect x="109" y="405" width="216" height="42" rx="21" fill="#fff"/>
+    <rect x="92" y="456" width="250" height="42" rx="21" fill="#fff"/>
+  </g>
+</svg>
